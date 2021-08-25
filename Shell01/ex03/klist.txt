@@ -1,0 +1,6 @@
+Credentials cache: API:09F5BBC9-567D-405B-955B-E596B0CC79BB
+        Principal: peantoni@42LISBOA.COM
+
+  Issued                Expires               Principal
+Aug  3 09:45:58 2021  Aug  3 19:45:58 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Aug  3 09:45:59 2021  Aug  3 19:45:58 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM
